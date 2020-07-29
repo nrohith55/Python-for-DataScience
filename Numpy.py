@@ -11,7 +11,7 @@ Created on Mon Apr 27 20:49:33 2020
 
 #Vectors are 1-Dimensional arrays and Matrices are 2-Dimensional arrays
 
-#Numpy array by using Python object such as lisy
+#Numpy array by using Python object such as list
 
 my_list=[1,2,3]
 
